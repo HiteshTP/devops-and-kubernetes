@@ -10,3 +10,4 @@ COPY . .
 
 CMD [ "python", "rps.py" ]
 
+EXPOSE 8000
